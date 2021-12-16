@@ -1,5 +1,5 @@
 <h1>Sokoban Game<h1>
-<h3>Here's the class diagram:</h3>
+<h3>Game design:</h3>
 https://miro.com/welcomeonboard/Rm1OMmJFTUhQZWdJd1JZcnpwNXdtYjdnZzY1WEFQbE9HVk9TYXUzSktVZ1N6RG1PY0N4OEVUdVRZdHQzNHVIWnwzMDc0NDU3MzQ4MTA5OTI3OTgw?invite_link_id=281108160362
 <h3>Game rules:</h3>
 <p>The game is played on a board of squares, where each square is a floor or a wall. Some floor squares contain boxes, and some floor squares are marked as storage locations.
