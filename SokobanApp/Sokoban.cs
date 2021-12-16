@@ -84,11 +84,6 @@ namespace Sokoban
             return "@";
         }
 
-        public ConsoleColor GetColor()
-        {
-            return ConsoleColor.Cyan;
-        }
-
         public bool IsMovable()
         {
             return false;
